@@ -1,4 +1,4 @@
-# Implementação de práticas ITIL 4 para Gerenciamento de servicos de TI
+# Implementação de práticas ITIL 4 para Gerenciamento de serviços de TI
 
 <p align="center">
   <img alt="Unicarioca" src=".github/logo.png" width="160px">
